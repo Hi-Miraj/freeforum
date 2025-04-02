@@ -30,7 +30,7 @@ const Footer = () => {
               <h2 className="text-xl font-serif font-bold">The Free Forum</h2>
             </div>
             <p className="text-sm text-gray-300 mt-2">
-              A peaceful, constructive social movement dedicated to fostering open discussions.
+              fostering open discussions.
             </p>
           </div>
           
