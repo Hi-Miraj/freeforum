@@ -68,7 +68,7 @@ const Footer = () => {
                 <XLogo size={18} />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/mirajshafek/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-white rounded-full p-2 text-black hover:opacity-80 transition-opacity"
